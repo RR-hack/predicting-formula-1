@@ -1,0 +1,15 @@
+__pycache__/
+.cache/
+.vscode/
+.env
+.DS_Store
+
+# caches
+f1_cache/
+
+# [16/07/2026] Conceal information and arch documents for the moment until finalized
+docs/
+
+# database - for now 
+alembic/
+alembic.ini
